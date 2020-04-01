@@ -4,10 +4,14 @@ O projeto Be the Hero foi realizado a partir da Semana Omnistack 11 da [Rocketse
 
 ### Objetivo
 
-O objetivo do projeto é construir a API REST no backend, o visual com ReactJS no frontend e o aplicativo com React Native no Mobile.
+O objetivo do projeto é criar um site e aplicativo para ONGS que necessitam de ajudas em dinheiro para que seus "casos" possam ser atendidos.
+
+Foi construída uma API REST no backend, a parte visual foi feita com ReactJS no frontend e o aplicativo criado em React Native no Mobile.
 
 [Projeto Frontend](https://github.com/ildaneta/semanaomnistack11/tree/master/Aulas/Frontend)
+
 [Projeto Backend](https://github.com/ildaneta/semanaomnistack11/tree/master/Aulas/Backend)
+
 [Projeto Mobile](https://github.com/ildaneta/semanaomnistack11/tree/master/Aulas/Mobile)
 
 ### Imagem final do projeto
